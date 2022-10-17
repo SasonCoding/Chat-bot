@@ -21,7 +21,7 @@ Amazon: Provide a name of a product and you will recive a 10 items list of produ
 Yahoo-Weather: Provide a name of a city or state and you will recive and current weather.
 <br>
 IMDB-Movies: Provide a name of a movie and you will recive a list of movies that matches the name.
-
+<br>
 For the dialogflow chat bot just ask for: "Movie", "Products" or "Weather" and the bot will analyse the interntion and will replay with a proper response.
 
 ## Tools:
