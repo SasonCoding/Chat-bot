@@ -1,7 +1,8 @@
 # Chat-bot
 
-Link to heroku: <a href="https://moshe-chatbot.herokuapp.com/swagger-ui.html">Chat-bot</a>
-Link to the bot: <a href:"https://console.dialogflow.com/api-client/demo/embedded/c0c18567-ac2e-4aef-92ac-5f3ee106936e">Chat-bot</a>
+Link to heroku: <a href="https://moshe-chatbot.herokuapp.com/swagger-ui.html">Chat-bot-Api</a>
+<br>
+Link to the bot: <a href="https://console.dialogflow.com/api-client/demo/embedded/c0c18567-ac2e-4aef-92ac-5f3ee106936e">Chat-bot-dialogflow</a>
 
 Enables communication between a bot and a user using Dialogflow and Webhooks.
 
