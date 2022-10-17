@@ -15,13 +15,13 @@ Each request represent real-time data that as been retrived using Scraping.
 ## Example:
 <br>
 Heroku RestApi:
-<br>
+<p>
 Amazon: Provide a name of a product and you will recive a 10 items list of products from amazon.
 <br>
 Yahoo-Weather: Provide a name of a city or state and you will recive and current weather.
 <br>
 IMDB-Movies: Provide a name of a movie and you will recive a list of movies that matches the name.
-<br>
+<p>
 For the dialogflow chat bot just ask for: "Movie", "Products" or "Weather" and the bot will analyse the interntion and will replay with a proper response.
 
 ## Tools:
