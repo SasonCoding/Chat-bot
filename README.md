@@ -12,13 +12,17 @@ operations from a server located in Heroku and these requests make use of Scrapi
 
 Each request represent real-time data that as been retrived using Scraping.
 
-## Example: 
-
+## Example:
+<br>
+Heroku RestApi:
+<br>
 Amazon: Provide a name of a product and you will recive a 10 items list of products from amazon.
 <br>
 Yahoo-Weather: Provide a name of a city or state and you will recive and current weather.
 <br>
 IMDB-Movies: Provide a name of a movie and you will recive a list of movies that matches the name.
+
+For the dialogflow chat bot just ask for: "Movie", "Products" or "Weather" and the bot will analyse the interntion and will replay with a proper response.
 
 ## Tools:
 ![Screenshot_4](https://user-images.githubusercontent.com/76630855/196154093-be5ca9a3-89dc-4101-b9e1-48552d8eb6f5.png)
