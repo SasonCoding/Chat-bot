@@ -19,10 +19,8 @@ public class BotController {
 
     @Autowired
     AmazonService amazonService;
-
     @Autowired
     WeatherService weatherService;
-
     @Autowired
     MovieService movieService;
 
